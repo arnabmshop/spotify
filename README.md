@@ -1,4 +1,8 @@
-Top 100 Trending Hindi Songs Dashboard
+Top 100 Trending Hindi Songs Dashboard (Tableau/Python)
+
+Libraries used: 
+Spotipy to get data from spotify playlist, 
+Pandas, Numpy for data preprocessing and wranglist
 
 Overview
 This project aims to analyze and visualize the top 100 trending Hindi songs on Spotify. Using the Spotipy library, data is collected and processed into three distinct dataframes. A Tableau dashboard is then created to provide insights through various charts.
